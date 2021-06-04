@@ -1,0 +1,42 @@
+.one
+{
+    background-color: aqua;
+}
+.two
+{
+    background-color: blue;
+}
+.three
+{
+    background-color: chocolate;
+}
+tr
+{
+background-color: burlywood;
+
+}
+thead tr:hover 
+{
+    background-color: crimson!important;
+    color: white;
+}
+.table th,.table td
+{
+   border: none !important;
+}
+.progress
+{
+    margin-bottom: 20px;
+}
+.mydiv1
+{
+  width:60%;
+}
+.mydiv2
+{
+    width:40%;
+}
+#changeme .container-fluid
+{
+    width:60%;
+}
